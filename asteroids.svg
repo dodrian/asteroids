@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="100%" height="100%" version="1.1" onload="init(evt)"
+xmlns="http://www.w3.org/2000/svg" style="background-color:black;"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+  <animateMotion id="anime" fill="remove" begin="indefinite" />
+</defs>  
+<script type="text/javascript" xlink:href="Ship.js" />
+<script type="text/javascript" xlink:href="Bullet.js" />
+<script type="text/javascript" xlink:href="Explosion.js" />
+<script type="text/javascript" xlink:href="Asteroid.js" />
+<script type="text/javascript" xlink:href="asteroids.js" />
+</svg>
